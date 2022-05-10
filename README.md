@@ -1,2 +1,2 @@
 # Matrix-Game
-Assignement in Introduction To System Programming 234124
+Assignment in Introduction To System Programming 234124
